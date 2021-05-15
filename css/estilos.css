@@ -1,0 +1,31 @@
+/* HEADER */
+.logo{}
+.menuprincipal{}
+.menuprincipal__inicio{}
+.menuprincipal__servicios
+.menuprincipal__galeria{}
+.menuprincipal__contactar{}
+
+/* MAIN */
+.banner{}
+
+.titulo{}
+
+.articulosup{}.articulosup__flores{}.articulosup__flores__foto{}.articulosup__flores__texto{}.articulosup__flores__texto__parrafo{}.articulosup__flores__texto__titulo{}
+
+.articuloinf{}.articuloinf__fachada{}.articuloinf__fachada__foto{}.articuloinf__fachada__texto{}.articuloinf__fachada__texto__parrafo{}
+
+/* FOOTER*/
+.redes{}
+.redes__titulo{}
+.redes__instagram{}
+.redes__twitter{}
+.redes__pinterest{}
+
+.legal{}
+.legal__titulo{}
+.legal__cookies{}
+.legal__terminos{}
+
+.copyright{}
+
