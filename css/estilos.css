@@ -1,31 +1,111 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-color: #E8F9FF;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.contenido{
+    padding: 20px;
+    width: 1336px;
+
+}
 /* HEADER */
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
 .logo{}
-.menuprincipal{}
+.menuprincipal{
+    display: flex;
+    width: 25%;
+    justify-content: space-between;
+    
+
+}
 .menuprincipal__inicio{}
 .menuprincipal__servicios
 .menuprincipal__galeria{}
 .menuprincipal__contactar{}
 
 /* MAIN */
-.banner{}
+.banner{
+    width: 100%;
+    padding-top: 20px;
+}
 
-.titulo{}
+.titulo{
+    text-align: center;
+}
 
-.articulosup{}.articulosup__flores{}.articulosup__flores__foto{}.articulosup__flores__texto{}.articulosup__flores__texto__parrafo{}.articulosup__flores__texto__titulo{}
+.articulosup{
+    
+}
+.articulosup__flores{
+    display: flex;
+    margin-inline-start: 0px;
+    
 
-.articuloinf{}.articuloinf__fachada{}.articuloinf__fachada__foto{}.articuloinf__fachada__texto{}.articuloinf__fachada__texto__parrafo{}
+}
+.articulosup__flores__foto{
+
+
+}
+.articulosup__flores__texto{
+    padding-left: 16px;
+    padding-top: 5%;
+
+}.articulosup__flores__texto__parrafo{}.articulosup__flores__texto__titulo{}
+
+.articuloinf{
+    
+
+}
+.articuloinf__fachada{
+    display: flex;
+    flex-direction: row-reverse;
+    margin-inline-end: 0px;
+
+}.articuloinf__fachada__foto{
+
+}.articuloinf__fachada__texto{
+    padding-top: 10%;
+}.articuloinf__fachada__texto__parrafo{}
 
 /* FOOTER*/
-.redes{}
+footer{
+    background-color: #647378;
+    color: whitesmoke;
+    display: flex;
+
+}
+
+.redes{
+   
+}
 .redes__titulo{}
 .redes__instagram{}
 .redes__twitter{}
 .redes__pinterest{}
 
-.legal{}
+.legal{
+}
 .legal__titulo{}
 .legal__cookies{}
 .legal__terminos{}
 
-.copyright{}
+.copyright{
+    
 
+}
+
+ul{
+    list-style-type: none;
+
+}
