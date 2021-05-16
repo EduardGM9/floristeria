@@ -82,25 +82,33 @@ header{
 footer{
     background-color: #647378;
     color: whitesmoke;
+    
+}
+.final{
     display: flex;
 
-}
 
-.redes{
-   
+
 }
-.redes__titulo{}
+.redes{
+    padding-inline-start: 5px;
+    margin-block-start: 0px;
+}
+.redes__titulo{
+}
 .redes__instagram{}
 .redes__twitter{}
 .redes__pinterest{}
 
 .legal{
+    margin-block-start: 0px;
 }
 .legal__titulo{}
 .legal__cookies{}
 .legal__terminos{}
 
 .copyright{
+    width: 75% 
     
 
 }
